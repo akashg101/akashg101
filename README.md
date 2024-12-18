@@ -1,3 +1,4 @@
+![logo](https://github.com/akashg101/akashg101/blob/main/back.jpeg)
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
